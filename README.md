@@ -1,1 +1,1 @@
-# mashoodakram-pipelines-javascript-docker
+# pipelines-javascript-docker
